@@ -1,4 +1,4 @@
-# 📚 Herramienta PDF Todo-en-Uno (por PyPDF2)
+# 📚 Herramienta PDF Todo-en-Uno 
 
 Esta es una herramienta de consola escrita en Python que permite a los usuarios manipular archivos PDF de varias maneras.
 
